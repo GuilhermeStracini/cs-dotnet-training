@@ -11,7 +11,7 @@
     "body-parser": "^1.16.0",
     "config-extend": "^0.1.1",
     "express": "^4.14.0",
-    "mongodb": "^2.2.24",
+    "mongodb": "^3.6.1",
     "mysql": "^2.13.0",
     "pg": "^6.1.2"
   }
